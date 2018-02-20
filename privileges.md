@@ -18,7 +18,7 @@ SELECT, INSERT, UPDATE, DELETE, TRUNCATE, REFERENCES, TRIGGER, CREATE, CONNECT, 
 
 GRANT 指令可以設定權限給特定角色
 
-`GRANT some_`_`privilege TO some_role;`_
+`GRANT some_privilege TO some_role;`
 
 
 
