@@ -4,4 +4,5 @@
 * [版本特性](version.md)
   * [10.0](version/100.md)
 * [與 MySQL 的比較](compare.md)
+* [權限管理](privileges.md)
 
