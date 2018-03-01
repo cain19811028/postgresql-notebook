@@ -7,13 +7,10 @@
 * 2017-10-05：10
 
 * 2018-02-08：9.6.7
-
 * 2017-11-09：9.6.6
 * 2017-08-31：9.6.5
 
 # Feature Matrix
 
 官網：[https://www.postgresql.org/about/featurematrix/](https://www.postgresql.org/about/featurematrix/)
-
-
 
