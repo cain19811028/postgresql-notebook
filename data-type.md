@@ -23,8 +23,6 @@
 | :--- | :--- | :--- | :--- |
 | `money` | 8 bytes | currency amount | -92233720368547758.08 to +92233720368547758.07 |
 
-
-
 ## 字元類型（Character Types）
 
 | Name | Description |
@@ -32,6 +30,14 @@
 | `character varying(n),　varchar(n)` | variable-length with limit |
 | `character(n),　char(n)` | fixed-length, blank padded |
 | `text` | variable unlimited length |
+
+
+
+## 二進制資料類別（Binary Data Types）
+
+| Name | Storage Size | Description |
+| :--- | :--- | :--- |
+| `bytea` | 1 or 4 bytes plus the actual binary string | variable-length binary string |
 
 
 
