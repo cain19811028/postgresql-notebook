@@ -17,13 +17,21 @@
 | `serial` | 4 bytes | autoincrementing integer | 1 to 2147483647 |
 | `bigserial` | 8 bytes | large autoincrementing integer | 1 to 9223372036854775807 |
 
-
-
 ## 貨幣類型（Monetary Types）
 
 | Name | Storage Size | Description | Range |
 | :--- | :--- | :--- | :--- |
 | `money` | 8 bytes | currency amount | -92233720368547758.08 to +92233720368547758.07 |
+
+
+
+## 字元類型（Character Types）
+
+| Name | Description |
+| :--- | :--- |
+| `character varying(n),　varchar(n)` | variable-length with limit |
+| `character(n),　char(n)` | fixed-length, blank padded |
+| `text` | variable unlimited length |
 
 
 
