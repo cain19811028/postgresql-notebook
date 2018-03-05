@@ -19,3 +19,11 @@
 
 
 
+## 貨幣類型（Monetary Types）
+
+| Name | Storage Size | Description | Range |
+| :--- | :--- | :--- | :--- |
+| `money` | 8 bytes | currency amount | -92233720368547758.08 to +92233720368547758.07 |
+
+
+
