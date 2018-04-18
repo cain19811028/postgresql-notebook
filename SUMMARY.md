@@ -5,6 +5,7 @@
 * [系統限制](limit.md)
 * [權限管理](privileges.md)
 * [資料類型](data-type.md)
+* [upsert](upsert.md)
 * [版本資訊](version.md)
   * [10.0](version/100.md)
 
