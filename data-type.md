@@ -54,6 +54,18 @@
 | :--- | :--- | :--- |
 | boolean | 1 byte | state of true or false |
 
+## 幾何類型（**Geometric Types）**
+
+| Name | Storage Size | Description | Representation |
+| :--- | :--- | :--- | :--- |
+| point | 16 bytes | Point on a plane | \(x,y\) |
+| line | 32 bytes | Infinite line | {A,B,C} |
+| lseg | 32 bytes | Finite line segment | \(\(x1,y1\),\(x2,y2\)\) |
+| box | 32 bytes | Rectangular box | \(\(x1,y1\),\(x2,y2\)\) |
+| path | 16+16n bytes | Closed path \(similar to polygon\) | \(\(x1,y1\),...\) |
+| path | 16+16n bytes | Open path | \[\(x1,y1\),...\] |
+| polygon | 40+16n bytes | Polygon \(similar to closed path\) | \(\(x1,y1\),...\) |
+| circle | 24 bytes | Circle | &lt;\(x,y\),r&gt; \(center point and radius\) |
 
 
 
