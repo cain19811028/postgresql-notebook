@@ -1,6 +1,6 @@
 # Summary
 
-* [學習管道](README.md)
+* [學習筆記](README.md)
 * [與 MySQL 的比較](compare.md)
 * [系統限制](limit.md)
 * [權限管理](privileges.md)

@@ -1,4 +1,4 @@
-# PostgreSQL 學習筆記 - 學習管道
+# PostgreSQL 學習筆記
 
 ## 官方文件
 
