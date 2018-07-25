@@ -6,6 +6,7 @@
 * [權限管理](privileges.md)
 * [資料類型](data-type.md)
 * [upsert](upsert.md)
+* create table
 * [版本資訊](version.md)
   * [10.0](version/100.md)
 
