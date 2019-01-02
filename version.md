@@ -1,6 +1,6 @@
 # 各版本釋出日期
 
-官網：[https://www.postgresql.org/docs/10/static/release.html](https://www.postgresql.org/docs/10/static/release.html)
+官網：[https://www.postgresql.org/docs/11/release.html](https://www.postgresql.org/docs/11/release.html)
 
 * 2018-11-08：11.1
 * 2018-10-18：11
